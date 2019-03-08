@@ -15,6 +15,8 @@ chmod u+x server
 ./server
 ```
 
+Visit [http://localhost:8008/](http://localhost:8008/) in a browser supporting WebAssembly.
+
 ## Calculator
 **MAKE SURE EMSCRIPTEN IS INSTALLED IN THE HOME DIRECTORTY OF THE PROJECT**
 
